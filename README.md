@@ -1,1 +1,1 @@
-# -spot-robot-3d-parts
+# spot-robot-3d-parts
